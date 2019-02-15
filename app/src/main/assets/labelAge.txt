@@ -1,0 +1,8 @@
+baby
+kid
+teen
+young
+young adult
+adult
+old adult
+elderly
